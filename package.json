@@ -1,0 +1,24 @@
+{
+  "name": "p5-node-assignment-05",
+  "version": "1.0.0",
+  "description": "a simple node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzotabo/p5-node-assignment-05.git"
+  },
+  "author": "Enzo Taboada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzotabo/p5-node-assignment-05/issues"
+  },
+  "homepage": "https://github.com/enzotabo/p5-node-assignment-05#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
